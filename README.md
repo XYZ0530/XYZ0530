@@ -12,6 +12,10 @@ I'm interested in Applied AI, Machine Learning Engineering, Computer Vision, and
 
 Built a PyTorch forecasting pipeline using quarterly financial fundamentals, Cboe VIX data, and engineered lag features, with chronological evaluation, an XGBoost baseline, and Streamlit application source code.
 
+### [Engineering Document RAG Assistant](https://github.com/XYZ0530/engineering-document-rag-assistant)
+
+Built a self-directed RAG learning prototype over public NIST manufacturing documents using MiniLM embeddings, exact cosine retrieval, grounded prompting, and local Qwen generation, with documented retrieval experiments and limitations.
+
 ### [Sentiment Classification and Aspect-Based Review Analytics](https://github.com/XYZ0530/sentiment-aspect-review-analytics)
 
 Developed an individual NLP project comparing SVM and BiLSTM sentiment classifiers, with LDA, BERTopic, and CorEx for aspect extraction.
