@@ -1,24 +1,29 @@
 # Hi, I'm Tan Yi Zhao
 
-Final-year Bachelor of Engineering in Artificial Intelligence student at Xiamen University Malaysia, currently completing industrial training in R&D Machine Vision System at ViTrox.
+I'm a 2026 Bachelor of Engineering in Artificial Intelligence graduate from Xiamen University Malaysia.
 
-I am interested in AI, data analytics engineering, NLP, machine learning, computer vision, automation, and semiconductor manufacturing technology.
+I completed my R&D Machine Vision System internship at ViTrox in September 2026, working on computer vision model training and fine-tuning, dataset preparation, C++ optimization, and AI-assisted software integration for semiconductor inspection.
+
+I'm interested in Applied AI, Machine Learning Engineering, Computer Vision, and Generative AI applications, and I'm actively seeking entry-level full-time opportunities.
 
 ## Featured Projects
 
-### FT-Transformer Market-Cap Forecasting
-Built a forecasting pipeline for U.S.-listed technology firms using quarterly financial fundamentals, Cboe VIX data, engineered lag features, XGBoost baseline comparison, and a PyTorch FT-Transformer-style model.
+### [FT-Transformer for Next-Quarter Market-Cap Forecasting](https://github.com/XYZ0530/FYP-FT-Transformer)
 
-### Sentiment and Aspect-Based Review Analytics
-Developed an individual NLP review analytics project using SVM, BiLSTM, CountVectorizer, TF-IDF, CBOW, Skip-Gram, LDA, BERTopic, and CorEx.
+Built a PyTorch forecasting pipeline using quarterly financial fundamentals, Cboe VIX data, and engineered lag features, with chronological evaluation, an XGBoost baseline, and Streamlit application source code.
 
-### ResNet-18 Optimizer Comparison
-Compared Adam and Lion optimizers on CIFAR-10 using PyTorch, improving accuracy and reducing training time across repeated runs.
+### [Sentiment Classification and Aspect-Based Review Analytics](https://github.com/XYZ0530/sentiment-aspect-review-analytics)
 
-## Technical Skills
+Developed an individual NLP project comparing SVM and BiLSTM sentiment classifiers, with LDA, BERTopic, and CorEx for aspect extraction.
 
-Python, PyTorch, TensorFlow/Keras, scikit-learn, XGBoost, pandas, NumPy, NLP, computer vision, Streamlit, C++, MFC, Visual Studio, GitLab.
+### [ResNet-18 Optimizer Comparison](https://github.com/XYZ0530/lion-resnet18)
+
+Compared Adam and Lion optimizers on CIFAR-10 using PyTorch, documenting accuracy and training time across repeated runs.
+
+## Tools I Work With
+
+Python, PyTorch, TensorFlow/Keras, scikit-learn, pandas, NumPy, Streamlit, and C++. My internship also involved MFC, Visual Studio, and GitLab.
 
 ## Current Learning Focus
 
-SQL, RAG/LLM applications, manufacturing data analytics, and practical AI applications in semiconductor environments.
+SQL, RAG/LLM applications, and practical AI applications in semiconductor environments.
